@@ -1,7 +1,7 @@
 package ej4;
 
 public class Numero {
-public int Num;
+private int Num;
 
 Numero(){
 	Num=0;	
