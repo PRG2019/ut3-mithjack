@@ -4,7 +4,7 @@ public class MiNumero {
 public int Doble;
 public int Triple;
 public int Cuadruple;
-public int Numero;
+private int Numero;
 
 MiNumero(int n){
 	Numero=n;
