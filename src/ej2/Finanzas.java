@@ -1,8 +1,8 @@
 package ej2;
 
 public class Finanzas {
-public double Divisa;
-public double conver;
+private double Divisa;
+private double conver;
 
 //Constructores
 Finanzas(){
